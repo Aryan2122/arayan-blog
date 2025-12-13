@@ -1,0 +1,7 @@
+baseURL = "https://arayan.in/"
+languageCode = "en-us"
+title = "Arayan"
+theme = "ananke"
+
+[permalinks]
+  newsletter = "/newsletter/:slug/"
