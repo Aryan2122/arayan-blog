@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Arayan's Flywheel"
 
 theme = "ananke"
+googleAnalytics = "G-YTQR60RCE2"
 
 [permalinks]
   newsletter = "/newsletter/:slug/"
