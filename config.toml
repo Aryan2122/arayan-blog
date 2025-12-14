@@ -1,6 +1,6 @@
 baseURL = "https://arayan.in/"
 languageCode = "en-us"
-title = "Arayan’s Paati"
+title = "Arayan's Flywheel"
 
 theme = "ananke"
 
@@ -8,4 +8,4 @@ theme = "ananke"
   newsletter = "/newsletter/:slug/"
 
 [params]
-  description = "Notes on growth, product, psychology, and AI"
+description = "Weekly Pill of Growth & Tech"
